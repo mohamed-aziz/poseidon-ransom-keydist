@@ -9,7 +9,7 @@ site_content = """
   </head>
   
   <body>
-    <h2>Totally legitmiate website</h2>
+    <h2>Good job here is your flag <b>PoseidonCTF{something_something}</b></h2>
   </body>
 </html>
 """
